@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import "./App.css";
-import Login from "./Components/Login";
-import Register from "./Components/Register";
+import Login from "./Components/SignComponents/Login";
+import Register from "./Components/SignComponents/Register";
 import LoginLayout from "./Components/LoginLayout";
 import HomeLayout from "./Components/HomeLayout";
 import Home from "./Components/Home";
